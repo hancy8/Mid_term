@@ -57,7 +57,7 @@ function History() {
           <tr>
             <th>Original URL</th>
             <th>Short URL</th>
-            <th>Date Created</th>
+            <th>Expiry Date</th>
             <th>Actions</th>
           </tr>
         </thead>
